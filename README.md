@@ -33,6 +33,6 @@ Ps:centos7会自带python2，若输入python -V，会出现python2的版本号
 ### 5.进入退出python
 ````
 python3  # 出现>>> 表示进入成功
-exit()  #推出python
+exit()  #退出python
 ````
 
